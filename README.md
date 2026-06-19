@@ -70,7 +70,7 @@ Microsoft Excel
 
 ## Customization
 
-Edit the parameters section in `sigmoidal_growth_models.m` to:
+Edit the parameters to:
 - Change initial populations and growth rates
 - Adjust carrying capacities
 - Modify time range and resolution
